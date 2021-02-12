@@ -10,5 +10,5 @@ Channel portfolio optimization,
 Direct and Indirect traffic,
 Business pattern & seasonality,
 Product Sales analysis and Cross sell analysis,
-Prodcut refund analyis,
+Product refund analyis,
 User Journey and retruning users
