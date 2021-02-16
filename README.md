@@ -3,7 +3,7 @@ As a DB analyst for an online eCommerce site, goal was to analyse and optmize th
 Analysis included: 
 Traffic Source Analysis,
 Bid Optmization,
-Analysing website peromance,
+Analysing website perfomance,
 Landing page perfomance & Testing,
 Analysing and testing conversion funnels,
 Channel portfolio optimization,
